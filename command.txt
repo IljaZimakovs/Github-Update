@@ -1,0 +1,1 @@
+python contribute.py --max_commits=15 --frequency=60 --repository=git@github.com:rexar-0201/Next.js.git --days_from=720 --days_to=360 --no_weekends --user_email="zimakovs.sr.dev@gmail.com" --user_name="rexar-0201"
